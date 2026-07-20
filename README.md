@@ -1,8 +1,8 @@
 # Hi, I'm Nuwair 👋
 
-Full Stack Developer based in India — I build clean, scalable web applications using the MERN and PERN stacks.
+Full-Stack Software Engineer based in India, building production web applications end to end — from architecture to deployment — using the MERN and PERN stacks.
 
-Currently working at **Dezen Technology Solutions**, building production web applications with React.js, Node.js, Express.js, and PostgreSQL.
+Currently at **Dezen Technology Solutions**, contributing to **AWN**, an 8-module enterprise platform that digitizes client service operations — plus independent products I build and ship solo, below.
 
 ---
 
@@ -14,7 +14,7 @@ Currently working at **Dezen Technology Solutions**, building production web app
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -37,7 +37,7 @@ Currently working at **Dezen Technology Solutions**, building production web app
 ## 🚀 Projects
 
 ### 🗂️ [Developer Portfolio Platform](https://nuwairportfolio.vercel.app)
-Full-stack portfolio CMS with a secure admin panel — manage projects, skills, and experience in real time.
+Not a static template — every section is backed by a custom Node.js/Express/MongoDB API and an admin panel I built, so I can update projects, skills, and experience without touching code or redeploying.
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Vercel`
 
@@ -46,7 +46,7 @@ Full-stack portfolio CMS with a secure admin panel — manage projects, skills, 
 ---
 
 ### ✅ [TeamTasks](https://teamtasks-application.vercel.app/)
-Team productivity platform — task assignment boards, role-based dashboards, and real-time notifications via Socket.io.
+Built to fix a familiar team problem — unclear ownership, missed deadlines, and scattered task tracking. Tasks and status sync live over Socket.io, and an AI-assisted planning feature drafts task breakdowns that a person reviews and approves before anything is saved.
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `Vercel`
 
